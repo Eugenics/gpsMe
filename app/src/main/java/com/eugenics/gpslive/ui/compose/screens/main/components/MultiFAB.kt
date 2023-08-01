@@ -80,7 +80,11 @@ fun MultiFAB(
                     easing = LinearOutSlowInEasing
                 )
             ) { fullSize ->
+<<<<<<< HEAD
                 IntOffset(0, fullSize.height / 2)
+=======
+                IntOffset(0, fullSize.height)
+>>>>>>> 009acf6 (Initial commit)
             }
         ) {
             Column(
