@@ -80,7 +80,7 @@ fun MultiFAB(
                     easing = LinearOutSlowInEasing
                 )
             ) { fullSize ->
-                IntOffset(0, fullSize.height)
+                IntOffset(0, fullSize.height / 2)
             }
         ) {
             Column(
