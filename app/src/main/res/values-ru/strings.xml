@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Me</string>
+    <string name="choose_theme_text">Выбор темы</string>
+    <string name="close_string">Закрыть</string>
+    <string name="dark_text">Темная</string>
+    <string name="light_text">Светлая</string>
+    <string name="system_text">Системная</string>
+    <string name="settings_text">Настройки</string>
+    <string name="theme_title_string">Темы</string>
+    <string name="gps_down_warning">GPS выключен…</string>
+    <string name="permissions_grant_warning">Необходимо предоставить разрешения…</string>
+    <string name="share_location">Поделиться местоположением</string>
+    <string name="display_settings_category">Экран</string>
+    <string name="accuracy">Точность</string>
+    <string name="vertical_accuracy">Вертикальная точность</string>
+    <string name="altitude">Высота</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
+    <string name="speed">Скорость</string>
+    <string name="m_s">м/с</string>
+    <string name="km_h">км/ч</string>
+    <string name="m">м</string>
+    <string name="info">Инфо</string>
+    <string name="about">О программе</string>
+    <string name="my_location">GPS Me местоположение</string>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GPS Me</string>
+    <string name="choose_theme_text">Choose theme</string>
+    <string name="close_string">Close</string>
+    <string name="dark_text">Dark</string>
+    <string name="light_text">Light</string>
+    <string name="system_text">System</string>
+    <string name="settings_text">Settings</string>
+    <string name="theme_title_string">Theme</string>
+    <string name="gps_down_warning">GPS is down…</string>
+    <string name="permissions_grant_warning">Need granted permissions…</string>
+    <string name="share_location">Share location</string>
+    <string name="display_settings_category">Display</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="vertical_accuracy">Vertical accuracy</string>
+    <string name="altitude">Altitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="speed">Speed</string>
+    <string name="m_s">m/s</string>
+    <string name="km_h">km/h</string>
+    <string name="m">m</string>
+    <string name="info">Info</string>
+    <string name="about">About</string>
+    <string name="my_location">GPS Me location</string>
+</resources>
